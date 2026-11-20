@@ -1,0 +1,8 @@
+{
+  "name": "Agencia Latido · Chibi Romance",
+  "description": "Juego chibi de manhwa coreano: personaliza tu dormitorio y avatar, conquista acompañantes en tu oficina con diálogos dinámicos de IA, regalos, cámara de poses, libreta y teléfono social.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
